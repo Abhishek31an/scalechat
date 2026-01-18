@@ -1,6 +1,6 @@
 # ScaleChat - High-Performance Real-Time Messaging System
 
-**Live Demo:** [Insert your Render Link Here]
+**Live Demo:** (https://scalechat-app.onrender.com/)
 
 ## 🚀 Overview
 ScaleChat is a secure, multi-room messaging platform engineered for low-latency communication. It utilizes **WebSockets** for full-duplex communication and **TiDB (MySQL)** for persistent storage, supporting concurrent user sessions with optimistic UI updates.
