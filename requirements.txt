@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+websockets
+mysql-connector-python
+python-dotenv
+jinja2
