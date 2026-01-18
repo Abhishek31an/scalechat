@@ -4,3 +4,4 @@ websockets
 mysql-connector-python
 python-dotenv
 jinja2
+pydantic
